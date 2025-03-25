@@ -6,7 +6,7 @@
 
 <h3 align="center">-- 概述 --</h3>
 
-<img src="https://ghchart.rshah.org/409ba5/cour1258" alt="cour1258's Github chart" style="width:100%" />
+<img src="https://ghchart.rshah.org/409ba5/couneu" alt="cour1258's Github chart" style="width:100%" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=cour125822&count_private=true&show_icons=true&locale=cn&card_width=1000&hide_border=true&hide_title=true" style="width:100%" />
 
